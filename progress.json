@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:34:41.216Z",
+  "generated_at": "2026-09-25T16:34:43.257Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -83,6 +83,45 @@
       "last_pushed_at": "2026-09-20T13:13:09.763Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-22T06:17:04.030Z",
+      "last_pushed_at": "2026-09-22T06:17:04.030Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-09-22T07:24:11.561Z",
+      "last_pushed_at": "2026-09-22T07:24:11.561Z",
+      "language": "sql",
+      "lines": 2
+    },
+    "problem:1102": {
+      "kind": "problem",
+      "id": "1102",
+      "title": "Select specific columns",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1102",
+      "path": "problems/1102-select-specific-columns",
+      "first_solved_at": "2026-09-22T07:24:42.402Z",
+      "last_pushed_at": "2026-09-22T07:24:42.402Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
